@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "359455003320",
+    "firebase_url": "https://softpine-paradise.firebaseio.com",
+    "project_id": "softpine-paradise",
+    "storage_bucket": "softpine-paradise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359455003320:android:a532f3706ca8cb390b5a4d",
+        "android_client_info": {
+          "package_name": "com.bible.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359455003320-snr6fat24bkf9orna3ma0p0o508cdvme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgxE_ZGmlHrZ0Dq5sbhFtNaVzCE9tVOWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359455003320-snr6fat24bkf9orna3ma0p0o508cdvme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
